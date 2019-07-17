@@ -1,0 +1,67 @@
+img {
+  float: left;
+  width: px;
+  height: 500px;
+  margin-right: 1cm
+}
+
+h1 {
+  background-color: yellow;
+  color: blue;
+  background-position: center;
+  font-family: cursive;
+  font-size: 50px
+
+
+}
+h2 {
+  color: yellow;
+  background-color: blue;
+  font-family: fantasy;:
+}
+
+html {
+  background-color: grey;
+}
+
+p {
+  color: white;
+}
+
+spelling {
+  webkit-appearance: none;
+}
+/*
+Result
+EDIT ON */
+ .element {
+  width: 100%;
+  height: 100%;
+  animation: pulse 5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: blue;
+  }
+  100% {
+    background-color: yellow;
+  }
+}
+
+html,
+body {
+  height: 70%;
+}
+
+Img "50" {
+  float: left;
+  margin-top: 3in
+}
+
+button {
+  width: 1in
+  height: 1in
+  border-color: blue
+  margin: 1in
+}
